@@ -1,5 +1,5 @@
 # pyFCD
-This repositry contains the python code to visualise airflow using a fast cherboard demodulation background oriented schlieren (BOS) technique. The technique follows the process outlined by Sander Wildeman: <br>
+This repositry contains the python code to visualise airflow using a fast checkerboard demodulation background oriented schlieren (BOS) technique. The technique follows the process outlined by Sander Wildeman: <br>
 https://doi.org/10.48550/arXiv.1712.05679  <br>
 https://github.com/alexlib/fcd <br>
 
